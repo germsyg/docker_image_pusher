@@ -4,3 +4,5 @@ swoft/swoft
 mariadb:10.11
 redis:alpine
 nextcloud
+mysql:5.7
+php:7.4-fpm
