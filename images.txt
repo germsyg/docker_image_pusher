@@ -1,3 +1,4 @@
+--platform=linux/arm64 homeassistant/home-assistant:stable
 corentinth/it-tools:latest
 node:lts-alpine
 docker.elastic.co/elasticsearch/elasticsearch:7.17.3
