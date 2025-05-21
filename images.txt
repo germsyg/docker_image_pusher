@@ -1,5 +1,5 @@
 # 123
-hyperf-admin
+php:8.3.21-fpm-alpine3.20
 --platform=linux/arm64 homeassistant/home-assistant:stable
 corentinth/it-tools:latest
 node:lts-alpine
