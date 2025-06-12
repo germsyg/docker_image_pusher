@@ -1,23 +1,24 @@
 # 123
-php:8.3.21-fpm-alpine3.20
---platform=linux/arm64 homeassistant/home-assistant:stable
-corentinth/it-tools:latest
-node:lts-alpine
-docker.elastic.co/elasticsearch/elasticsearch:7.17.3
-kibana:7.17.3
-swoft/swoft
-mariadb:10.11
-redis:alpine
-nextcloud
-mysql:5.7
-php:7.4-fpm
-python:3.9-slim
-nginx:stable
-bitnami/kafka:3.9.0
-rabbitmq:3.12-management
-jenkins/jenkins:lts
-php:8.2-fpm
-openjdk:17-jdk
-python:3.11
-node:18
-mongo:6.0
+phpswoole/swoole:4.8-php7.4-alpine
+# php:8.3.21-fpm-alpine3.20
+# --platform=linux/arm64 homeassistant/home-assistant:stable
+# corentinth/it-tools:latest
+# node:lts-alpine
+# docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+# kibana:7.17.3
+# swoft/swoft
+# mariadb:10.11
+# redis:alpine
+# nextcloud
+# mysql:5.7
+# php:7.4-fpm
+# python:3.9-slim
+# nginx:stable
+# bitnami/kafka:3.9.0
+# rabbitmq:3.12-management
+# jenkins/jenkins:lts
+# php:8.2-fpm
+# openjdk:17-jdk
+# python:3.11
+# node:18
+# mongo:6.0
