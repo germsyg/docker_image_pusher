@@ -1,5 +1,6 @@
 # 123
-ghcr.io/xiaomi/miloco-ai_engine:latest
+nvidia/cuda:12.4.1-base-ubuntu22.04
+# ghcr.io/xiaomi/miloco-ai_engine:latest
 # ghcr.io/xiaomi/miloco-backend:latest
 # hello-world
 # homeassistant/home-assistant:stable
