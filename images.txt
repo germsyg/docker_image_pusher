@@ -1,5 +1,5 @@
 # 123
-phpswoole/swoole:4.8.13-php7.2-alpine
+phpswoole/swoole:4.8-php7.3-alpine
 # php:7.4-cli
 #nvidia/cuda:12.4.1-base-ubuntu22.04
 # ghcr.io/xiaomi/miloco-ai_engine:latest
