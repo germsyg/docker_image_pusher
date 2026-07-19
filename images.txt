@@ -1,11 +1,12 @@
 # 123
-mysql:8.0
-confluentinc/cp-zookeeper:7.6.0
-confluentinc/cp-kafka:7.6.0
-provectuslabs/kafka-ui:latest
-redis:7-alpine
-clickhouse/clickhouse-server:23.8
-canal/canal-server:v1.1.7
+hyperf/hyperf:7.4-alpine-v3.11-swoole
+#mysql:8.0
+#confluentinc/cp-zookeeper:7.6.0
+#confluentinc/cp-kafka:7.6.0
+#provectuslabs/kafka-ui:latest
+#redis:7-alpine
+#clickhouse/clickhouse-server:23.8
+#canal/canal-server:v1.1.7
 # phpswoole/swoole:4.8-php7.3-alpine
 # php:7.4-cli
 #nvidia/cuda:12.4.1-base-ubuntu22.04
