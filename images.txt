@@ -1,5 +1,6 @@
 # 123
-hyperf/hyperf:7.4-alpine-v3.11-swoole
+node:24-alpine
+#hyperf/hyperf:7.4-alpine-v3.11-swoole
 #mysql:8.0
 #confluentinc/cp-zookeeper:7.6.0
 #confluentinc/cp-kafka:7.6.0
